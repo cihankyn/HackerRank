@@ -1,3 +1,4 @@
+# Q Url : https://www.hackerrank.com/challenges/swap-case/problem
 def swap_case(s):
     result = ""
     for i in s:
@@ -7,5 +8,6 @@ def swap_case(s):
             result += i.upper()
     return result
 
-#test
+
+# test
 print(swap_case("Www.HackerRank.com"))

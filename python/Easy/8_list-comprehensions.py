@@ -1,3 +1,4 @@
+# Q Url : https://www.hackerrank.com/challenges/list-comprehensions
 x = 1
 y = 1
 z = 2
