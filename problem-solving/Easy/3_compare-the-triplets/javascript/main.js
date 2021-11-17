@@ -1,3 +1,5 @@
+// URL : https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 function compareTriplets(a, b) {
   let alice = 0;
   let bob = 0;

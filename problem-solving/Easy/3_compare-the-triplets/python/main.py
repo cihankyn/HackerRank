@@ -1,3 +1,5 @@
+# URL : https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 def compareTriplets(a, b):
     # constraints
     a = [i for i in a if 1 <= i <= 100]
